@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abisheka Wickramasinghe</h1>
+<h1 align="center"> I'm Abisheka Wickramasinghe</h1>
 <h3 align="center">A passionate frontend developer, UI/UX Designer, Application Developer</h3>
 
 - 📫 How to reach me **abishekawicki@gmail.com**
